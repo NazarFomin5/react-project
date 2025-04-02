@@ -1,0 +1,33 @@
+body {
+  background-color: #120261;
+  font-family: "Roboto", sans-serif;
+}
+.btn {
+  cursor: pointer;
+  font-size: 40px;
+  background-color: beige;
+  border-radius: 20px;
+  width: 200px;
+  height: 100px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.text {
+  font-size: 90px;
+  color: azure;
+}
+.contentDiv {
+  border: 8px solid blue;
+  border-radius: 30px;
+  width: 365px;
+  height: 365px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
