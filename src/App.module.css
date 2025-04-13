@@ -31,3 +31,6 @@ body {
   align-items: center;
   justify-content: center;
 }
+.counttext {
+  color: azure;
+}
